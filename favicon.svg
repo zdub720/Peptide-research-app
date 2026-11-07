@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Meniscus">
+  <rect width="64" height="64" rx="14" fill="#f3efe6"/>
+  <path d="M22 14h20v6c0 14-6 22-10 26-4-4-10-12-10-26V14z" fill="none" stroke="#1c1915" stroke-width="2.5"/>
+  <path d="M24 34c4 3 12 3 16 0" fill="none" stroke="#9a3b1a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M26 40h12" fill="none" stroke="#1c1915" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+</svg>
